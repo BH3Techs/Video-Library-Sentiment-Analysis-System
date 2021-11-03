@@ -1,0 +1,213 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abirami and Gayathri(2017)]{abirami2017survey}
+A.~Abirami and V.~Gayathri.
+\newblock A survey on sentiment analysis methods and approach.
+\newblock In \emph{2016 Eighth International Conference on Advanced Computing
+  (ICoAC)}, pages 72--76. IEEE, 2017.
+
+\bibitem[Alessia et~al.(2015)Alessia, Ferri, Grifoni, and
+  Guzzo]{alessia2015approaches}
+D.~Alessia, F.~Ferri, P.~Grifoni, and T.~Guzzo.
+\newblock Approaches, tools and applications for sentiment analysis
+  implementation.
+\newblock \emph{International Journal of Computer Applications}, 125\penalty0
+  (3), 2015.
+
+\bibitem[Asghar et~al.(2015)Asghar, Ahmad, Marwat, and
+  Kundi]{asghar2015sentiment}
+M.~Z. Asghar, S.~Ahmad, A.~Marwat, and F.~M. Kundi.
+\newblock Sentiment analysis on youtube: A brief survey.
+\newblock \emph{arXiv preprint arXiv:1511.09142}, 2015.
+
+\bibitem[Babbie()]{babbieadventures}
+E.~R.~R. Babbie.
+\newblock Adventures in social research: Data analysis using ibm? spss?
+  statistics 7th (seventh) edition by babbie, earl r.(robert), halley,
+  frederick (fred) s., wagne published by sage publications, inc (2010).
+
+\bibitem[B{\"a}rtl(2018)]{bartl2018youtube}
+M.~B{\"a}rtl.
+\newblock Youtube channels, uploads and views: A statistical analysis of the
+  past 10 years.
+\newblock \emph{Convergence}, 24\penalty0 (1):\penalty0 16--32, 2018.
+
+\bibitem[Bogicevic et~al.(2013)Bogicevic, Yang, Bilgihan, and
+  Bujisic]{bogicevic2013airport}
+V.~Bogicevic, W.~Yang, A.~Bilgihan, and M.~Bujisic.
+\newblock Airport service quality drivers of passenger satisfaction.
+\newblock \emph{Tourism Review}, 68\penalty0 (4):\penalty0 3--18, 2013.
+
+\bibitem[Cherian and Murukezhan(2013)]{cherian2013providing}
+S.~Cherian and K.~Murukezhan.
+\newblock Providing data protection as a service in cloud computing.
+\newblock \emph{International Journal of Scientific and Research Publications},
+  3\penalty0 (6):\penalty0 1, 2013.
+
+\bibitem[Das et~al.(2017)Das, Padhy, and Mishra]{inproceedings}
+M.~Das, B.~Padhy, and B.~Mishra.
+\newblock Opinion mining and sentiment classification: A review.
+\newblock pages 1--3, 01 2017.
+\newblock \doi{10.1109/ICISC.2017.8068637}.
+
+\bibitem[Dean(2007)]{dean2007impact}
+A.~M. Dean.
+\newblock The impact of the customer orientation of call center employees on
+  customers' affective commitment and loyalty.
+\newblock \emph{Journal of Service Research}, 10\penalty0 (2):\penalty0
+  161--173, 2007.
+
+\bibitem[Eberhart(2010)]{eberhart2010librarian}
+G.~M. Eberhart.
+\newblock \emph{The Librarian's Book of Lists: A Librarian's Guide to Helping
+  Job Seekers}.
+\newblock American Library Association, 2010.
+
+\bibitem[Elmorshidy(2013)]{elmorshidy2013applying}
+A.~Elmorshidy.
+\newblock Applying the technology acceptance and service quality models to live
+  customer support chat for e-commerce websites.
+\newblock \emph{Journal of Applied Business Research (JABR)}, 29\penalty0
+  (2):\penalty0 589--596, 2013.
+
+\bibitem[Farnum et~al.(2011)Farnum, Baird, and Ball]{farnum2011can}
+C.~M. Farnum, C.~Baird, and K.~Ball.
+\newblock Can i make a suggestion? your library suggestion box as an assessment
+  tool.
+\newblock \emph{Partnership: The Canadian Journal of Library and Information
+  Practice and Research}, 6\penalty0 (1), 2011.
+
+\bibitem[Fayyad et~al.(1996)Fayyad, Piatetsky-Shapiro, and
+  Smyth]{fayyad1996kdd}
+U.~Fayyad, G.~Piatetsky-Shapiro, and P.~Smyth.
+\newblock The kdd process for extracting useful knowledge from volumes of data.
+\newblock \emph{Communications of the ACM}, 39\penalty0 (11):\penalty0 27--34,
+  1996.
+
+\bibitem[Ghauri and Gr{\o}nhaug(2010)]{ghauri2010research}
+P.~Ghauri and K.~Gr{\o}nhaug.
+\newblock Research methods in business studies (4. utg.).
+\newblock \emph{Harlow: Financial Times Prentice Hall}, 2010.
+
+\bibitem[Gr{\"a}bner et~al.(2012)Gr{\"a}bner, Zanker, Fliedl, Fuchs,
+  et~al.]{grabner2012classification}
+D.~Gr{\"a}bner, M.~Zanker, G.~Fliedl, M.~Fuchs, et~al.
+\newblock Classification of customer reviews based on sentiment analysis.
+\newblock In \emph{ENTER}, pages 460--470. Citeseer, 2012.
+
+\bibitem[Harb et~al.(2008)Harb, Planti{\'e}, Dray, Roche, Trousset, and
+  Poncelet]{harb2008web}
+A.~Harb, M.~Planti{\'e}, G.~Dray, M.~Roche, F.~Trousset, and P.~Poncelet.
+\newblock Web opinion mining: How to extract opinions from blogs?
+\newblock In \emph{Proceedings of the 5th international conference on Soft
+  computing as transdisciplinary science and technology}, pages 211--217, 2008.
+
+\bibitem[Jandail(2014)]{jandail2014proposed}
+R.~R.~S. Jandail.
+\newblock A proposed novel approach for sentiment analysis and opinion mining.
+\newblock \emph{International Journal of UbiComp}, 5\penalty0 (1/2):\penalty0
+  1, 2014.
+
+\bibitem[Kasper et~al.(2012)Kasper, Vela, Fuchs, Ricci, and
+  Cantoni]{kasper2012monitoring}
+W.~Kasper, M.~Vela, M.~Fuchs, F.~Ricci, and L.~Cantoni.
+\newblock Monitoring and summarization of hotel reviews.
+\newblock In \emph{ENTER}, pages 471--482, 2012.
+
+\bibitem[Kvale(2006)]{interview}
+S.~Kvale.
+\newblock Dominance through interviews and dialogues.
+\newblock \emph{Qualitative Inquiry}, 12\penalty0 (3):\penalty0 480--500, 2006.
+\newblock \doi{10.1177/1077800406286235}.
+\newblock URL \url{https://doi.org/10.1177/1077800406286235}.
+
+\bibitem[Mabweazara and Zinn(2016)]{mabweazara2016assessing}
+R.~M. Mabweazara and S.~Zinn.
+\newblock Assessing the appropriation of social media by academic librarians in
+  south africa and zimbabwe.
+\newblock \emph{South African Journal of Libraries and Information Science},
+  82\penalty0 (1):\penalty0 1--12, 2016.
+
+\bibitem[Mann(1998)]{mann1998not}
+K.~V. Mann.
+\newblock Not another survey! using questionnaires effectively in needs
+  assessment.
+\newblock \emph{Journal of Continuing Education in the Health Professions},
+  18\penalty0 (3):\penalty0 142--149, 1998.
+
+\bibitem[Nave et~al.(2018)Nave, Rita, and Guerreiro]{nave2018decision}
+M.~Nave, P.~Rita, and J.~Guerreiro.
+\newblock A decision support system framework to track consumer sentiments in
+  social media.
+\newblock \emph{Journal of Hospitality Marketing \& Management}, 27\penalty0
+  (6):\penalty0 693--710, 2018.
+
+\bibitem[Ortiz-Ospina(2019)]{ortiz2019rise}
+E.~Ortiz-Ospina.
+\newblock The rise of social media.
+\newblock \emph{Our World in Data (September 18), https://ourworldindata.
+  org/rise-of-social-media}, 2019.
+
+\bibitem[Pang et~al.(2002)Pang, Lee, and Vaithyanathan]{pang2002thumbs}
+B.~Pang, L.~Lee, and S.~Vaithyanathan.
+\newblock Thumbs up?: sentiment classification using machine learning
+  techniques.
+\newblock In \emph{Proceedings of the ACL-02 conference on Empirical methods in
+  natural language processing-Volume 10}, pages 79--86. Association for
+  Computational Linguistics, 2002.
+
+\bibitem[Pang et~al.(2008)Pang, Lee, et~al.]{pang2008opinion}
+B.~Pang, L.~Lee, et~al.
+\newblock Opinion mining and sentiment analysis.
+\newblock \emph{Foundations and Trends{\textregistered} in Information
+  Retrieval}, 2\penalty0 (1--2):\penalty0 1--135, 2008.
+
+\bibitem[Priya and Dinakaran(2016)]{priyasentiment}
+K.~Priya and K.~Dinakaran.
+\newblock Sentiment analysis in various fields-a survey.
+\newblock 2016.
+
+\bibitem[Pullman and Robson(2007)]{Cc}
+M.~E. Pullman and S.~K.~A. Robson.
+\newblock Visual methods: Using photographs to capture customers' experience
+  with design.
+\newblock \emph{Cornell Hotel and Restaurant Administration Quarterly},
+  48\penalty0 (2):\penalty0 121--144, 2007.
+\newblock \doi{10.1177/0010880407300410}.
+\newblock URL \url{https://doi.org/10.1177/0010880407300410}.
+
+\bibitem[Sharda et~al.(2016)Sharda, Delen, and Turban]{sharda2016business}
+R.~Sharda, D.~Delen, and E.~Turban.
+\newblock \emph{Business intelligence, analytics, and data science: a
+  managerial perspective}.
+\newblock Pearson, 2016.
+
+\bibitem[Sharma et~al.(2014)Sharma, Nigam, and Jain]{sharma2014polarity}
+R.~Sharma, S.~Nigam, and R.~Jain.
+\newblock Polarity detection at sentence level.
+\newblock \emph{International journal of computer applications}, 86\penalty0
+  (11), 2014.
+
+\bibitem[Shenton and Johnson(2007)]{shenton2007library}
+A.~K. Shenton and A.~Johnson.
+\newblock Library suggestions and typologies of information needs.
+\newblock \emph{Library and Information Research}, 31\penalty0 (98):\penalty0
+  3--15, 2007.
+
+\bibitem[Torstensson and Dannehall(2017)]{torstensson2017customer}
+M.~Torstensson and E.~Dannehall.
+\newblock Customer support chat: A strategic tool for a company, 2017.
+
+\bibitem[Yang and Mo(2016)]{yang2016social}
+S.~Y. Yang and S.~Y.~K. Mo.
+\newblock Social media and news sentiment analysis for advanced investment
+  strategies.
+\newblock In \emph{Sentiment Analysis and Ontology Engineering}, pages
+  237--272. Springer, 2016.
+
+\end{thebibliography}

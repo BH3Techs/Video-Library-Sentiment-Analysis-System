@@ -1,0 +1,26 @@
+ERRO...Import |error Relative Import error
+SOLUTION.. Import with a path
+
+ERROR... ImproperlyConfigured: Requested setting INSTALLED_APPS, but settings are not configured. 
+		You must either define the environments variable DJANGO_SETTINGS_MODULE or call settings.
+		configure() before accessing settings.
+SOLUTION... 1st) s.environ.setdefault("DJANGO_SETTINGS_MODULE", "vlsa.settings")
+                django.setup()
+            2nd) Then call the class with path
+ERROR... ImportErro: cannot import name from partially initialized module
+SOLUTION .... Remove circular import
+
+ERROR ... Unable to call variable in another function
+SOLUTION    def a():
+	            global i
+	            i="variable" # global variable 
+	
+            def b():
+	            a()#since we are dclaring i as global in a() we need to call a()
+	            print(i)
+
+ERROR... return '<%s %s> % (self.clss)
+SOLUTION .... Remove circular import
+
+ERROR....'dict' object has no attribute 'status_code'
+SOLUTION...

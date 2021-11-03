@@ -1,0 +1,49 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Esuli and Sebastiani(2006)]{esuli2006sentiwordnet}
+A.~Esuli and F.~Sebastiani.
+\newblock Sentiwordnet: A publicly available lexical resource for opinion
+  mining.
+\newblock In \emph{LREC}, volume~6, pages 417--422. Citeseer, 2006.
+
+\bibitem[Gamon(2004)]{gamon2004sentiment}
+M.~Gamon.
+\newblock Sentiment classification on customer feedback data: noisy data, large
+  feature vectors, and the role of linguistic analysis.
+\newblock In \emph{Proceedings of the 20th international conference on
+  Computational Linguistics}, page 841. Association for Computational
+  Linguistics, 2004.
+
+\bibitem[Pang et~al.(2008)Pang, Lee, et~al.]{pang2008opinion}
+B.~Pang, L.~Lee, et~al.
+\newblock Opinion mining and sentiment analysis.
+\newblock \emph{Foundations and Trends{\textregistered} in Information
+  Retrieval}, 2\penalty0 (1--2):\penalty0 1--135, 2008.
+
+\bibitem[Pasquale et~al.(2011)Pasquale, Bushey, and Knott]{pasquale2011system}
+T.~B. Pasquale, R.~R. Bushey, and B.~A. Knott.
+\newblock System and method for automated customer feedback, Jan.~25 2011.
+\newblock US Patent 7,877,265.
+
+\bibitem[Pine et~al.(2009)Pine, Peppers, and Rogers]{PINE}
+B.~J. Pine, D.~Peppers, and M.~Rogers.
+\newblock \emph{{Do you want to keep your customers forever?}}
+\newblock Harvard Business Press., 2009.
+
+\bibitem[Priya and Dinakaran(2016)]{priyasentiment}
+K.~Priya and K.~Dinakaran.
+\newblock Sentiment analysis in various fields-a survey.
+\newblock 2016.
+
+\bibitem[Sharma et~al.(2014)Sharma, Nigam, and Jain]{sharma2014polarity}
+R.~Sharma, S.~Nigam, and R.~Jain.
+\newblock Polarity detection at sentence level.
+\newblock \emph{International journal of computer applications}, 86\penalty0
+  (11), 2014.
+
+\end{thebibliography}
